@@ -4,7 +4,7 @@ PhonePe Pulse Data Visualization is a web application created with Streamlit to 
 
 ---
 
-# Key Features:
+### Key Features:
 
 ### Transaction Analysis: 
 
@@ -18,7 +18,7 @@ PhonePe Pulse Data Visualization is a web application created with Streamlit to 
 * Analyze district-level data on user registration patterns.
 * Explore top user registration patterns by state, quarter, and pincode.
 
-___
+---
 
 ### Technologies Used:
 
@@ -27,15 +27,20 @@ ___
 * Plotly: Interactive visualization library for creating dynamic charts.
 * SQL: Used for managing and querying the database.
 * Streamlit: Web application framework for building interactive Python apps.
+ 
 ---
+
 ### Usage:
 
 * Select between transaction analysis and user analysis from the sidebar.
 * Choose different options to visualize data such as transaction types, states, years, quarters, and brands.
 * Interact with the visualizations to understand transaction and user registration trends.
+---
 
 ### Data Sources:
 Data is sourced from PhonePe's GitHub repository, providing transaction and user registration data for analysis.
+
+---
 
 ### Contributing:
 Contributions are welcome! Report bugs or suggest improvements by opening an issue or creating a pull request.
